@@ -1,0 +1,17 @@
+FRAMEWORK: >= NET462
+NUGET
+  remote: https://api.nuget.org/v3/index.json
+    Google.Apis (1.24.1)
+      Google.Apis.Core (>= 1.24.1)
+      Zlib.Portable.Signed (>= 1.11)
+    Google.Apis.Auth (1.24.1)
+      Google.Apis (>= 1.24.1)
+      Google.Apis.Core (>= 1.24.1)
+    Google.Apis.Books.v1 (1.24.1.802)
+      Google.Apis (>= 1.24.1)
+      Google.Apis.Auth (>= 1.24.1)
+    Google.Apis.Core (1.24.1)
+      Newtonsoft.Json (>= 7.0.1)
+    Newtonsoft.Json (10.0.2)
+    System.ValueTuple (4.3)
+    Zlib.Portable.Signed (1.11)
